@@ -1,0 +1,11 @@
+{
+	"outputs": [
+		{
+			"inputs": ["jquery.gearplayer.js"],
+			"output": "jquery.gearplayer.min.js",
+			"generateMap": true,
+			"mangle": true,
+			"isolate": false
+		}
+	]
+}
